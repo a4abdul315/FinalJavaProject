@@ -1,0 +1,4 @@
+---------------- Sign In info for Admin Panel ---------------- 
+
+User Name: admin
+Password: admin
